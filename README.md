@@ -18,9 +18,9 @@ repo to help with some of the admin stuff.
    page](https://cs.anu.edu.au/code-creativity-culture/people/)
 
 There will be more documents & admin stuff to write over the course of your
-project, and you can add that to this repo as well. It means everything'll be in
-one place, it'll be easy for your supervisor to give feedback, and it'll be
-backed up in case you spill coffee on your laptop.
+project, which you can add to this repo as you go. It means everything'll be in
+one place, it'll be easy for your supervisor to review/give feedback, and it'll
+be backed up in case you spill coffee on your laptop.
 
 Finally, a **quick warning**: the "final word" on admin requirements in your
 project course is always your project course convenor, so if there's ever a
