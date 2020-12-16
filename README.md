@@ -6,7 +6,8 @@ repo to help with some of the admin stuff.
 
 ## TODO
 
-1. fork this repo to your own github account (probably best to make it private)
+1. fork this repo to your own github account (probably best to make it
+   private---this will remove the fork relationship, but that's fine)
 
 2. add your supervisor (e.g. [@benswift](https://github.com/benswift/)) as a
    collaborator (under _Settings_ > _Manage access_)
